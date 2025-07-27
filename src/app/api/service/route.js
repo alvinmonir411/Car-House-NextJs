@@ -1,4 +1,4 @@
-import { connectDB } from "@/lib/dbconnect"; // Adjust path if needed
+import { connectDB } from "@/lib/dbconnect"; 
 
 export async function GET() {
   try {
